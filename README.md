@@ -1,7 +1,7 @@
 # DSA 210: Introduction to Data Science - Term Project
 **Term:** 2025-2026 Spring
 **Student:** Emre Pamukçu 
-**Student ID:** 32693  
+**Student ID:** 22596  
 
 ---
 
