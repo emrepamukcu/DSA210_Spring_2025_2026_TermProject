@@ -3,7 +3,7 @@ import numpy as np
 import os
 
 # Paths
-BASE_DIR = r"c:\Users\kosot\OneDrive\Masaüstü\CS\CS455\emre_210\DSA210_Spring_2025_2026_TermProject"
+BASE_DIR = r"c:\Users\emre\OneDrive\Masaüstü\CS\CS455\emre_210\DSA210_Spring_2025_2026_TermProject"
 FLIGHT_DIR = os.path.join(BASE_DIR, "dataset", "flight")
 OIL_FILE = os.path.join(BASE_DIR, "dataset", "oil_price_11022022_31032022", "Crude Oil WTI Futures Historical Data.csv")
 
