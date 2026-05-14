@@ -43,5 +43,5 @@ The Random Forest's feature importance metric directly answered the project's co
 ### Deliverables
 - `eda_and_hypothesis_testing.ipynb`: Notebook detailing the EDA, visual trends, and statistical tests.
 - `machine_learning_phase4.ipynb`: Notebook detailing data preprocessing, model training, and feature importance analysis.
-- `Final_Report.pdf`: Comprehensive report covering the methodologies and results.
-- `Final_Presentation.pptx`: Slide deck summarizing the project flow and conclusions (redesigned for presentations).
+- `Emre_Pamukcu_Course_Project_Final_Report.pdf`: Comprehensive report covering the methodologies and results.
+- `Emre_Pamukcu_Course_Project_Final_Presentation.pptx`: Slide deck summarizing the project flow and conclusions (redesigned for presentations).
